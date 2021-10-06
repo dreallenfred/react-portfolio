@@ -1,11 +1,12 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-import image1 from '../images/professional2.jpeg';
-import image2 from '../images/img-2.jpg';
-import image3 from '../images/img-3.jpg';
-import image4 from '../images/img-4.jpg';
-import image5 from '../images/img-8.jpg';
+import image1 from '../images/nsbe.jpg';
+import image2 from '../images/kitty.JPG';
+import image3 from '../images/profile.JPEG';
+import image4 from '../images/universal.JPEG';
+import image5 from '../images/suave.JPG';
+import image6 from '../images/sunset.JPEG'
 
 function Cards() {
   return (
@@ -14,14 +15,14 @@ function Cards() {
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
-            <CardItem
+            {/* <CardItem
               src={image1}
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
               path='/services'
-            />
+            /> */}
             <CardItem
-              src={image2}
+              src={image3}
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
               path='/services'
@@ -29,7 +30,7 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src={image3}
+              src={image6}
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
               path='/services'
@@ -40,12 +41,12 @@ function Cards() {
               label='Adventure'
               path='/products'
             />
-            <CardItem
+            {/* <CardItem
               src={image5}
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
               path='/sign-up'
-            />
+            /> */}
           </ul>
         </div>
       </div>
