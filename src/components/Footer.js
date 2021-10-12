@@ -70,7 +70,7 @@ function Footer() {
           </div>
           <small class='website-rights'>AF © 2021</small>
           <div class='social-icons'>
-            <a href='https://www.facebook.com/aundre.fredericks' class='social-icon-link facebook' target='_blank' aria-label='Facebook'><i class='fab fa-facebook-f'/></a>
+            <a href='https://www.facebook.com/aundre.fredericks' class='social-icon-link facebook' target='_blank' rel='noreferrer' aria-label='Facebook'><i class='fab fa-facebook-f'/></a>
             {/* <Link
               class='social-icon-link facebook'
               to='/'
@@ -79,7 +79,7 @@ function Footer() {
             >
               <i class='fab fa-facebook-f' />
             </Link> */}
-            <a href='https://www.instagram.com/dre_allen_fred/' class='social-icon-link instagram' target='_blank' aria-label='Instagram'><i class='fab fa-instagram'/></a>
+            <a href='https://www.instagram.com/dre_allen_fred/' class='social-icon-link instagram' target='_blank' rel='noreferrer' aria-label='Instagram'><i class='fab fa-instagram'/></a>
             {/* <Link
               class='social-icon-link instagram'
               to='/'
@@ -88,7 +88,7 @@ function Footer() {
             >
               <i class='fab fa-instagram' />
             </Link> */}
-            <a href='https://www.youtube.com/channel/UCzNbiIZA7mIcLfxkdRrrUTw' class='social-icon-link youtube' target='_blank' aria-label='Youtube'><i class='fab fa-youtube'/></a>
+            <a href='https://www.youtube.com/channel/UCzNbiIZA7mIcLfxkdRrrUTw' class='social-icon-link youtube' target='_blank' rel='noreferrer' aria-label='Youtube'><i class='fab fa-youtube'/></a>
             {/* <Link
               class='social-icon-link youtube'
               to='/'
@@ -97,7 +97,7 @@ function Footer() {
             >
               <i class='fab fa-youtube' />
             </Link> */}
-            <a href='https://twitter.com/Aundre7' class='social-icon-link twitter' target='_blank' aria-label='Twitter'><i class='fab fa-twitter'/></a>
+            <a href='https://twitter.com/Aundre7' class='social-icon-link twitter' target='_blank' rel='noreferrer' aria-label='Twitter'><i class='fab fa-twitter'/></a>
             {/* <Link
               class='social-icon-link twitter'
               to='https://twitter.com/Aundre7'
@@ -106,7 +106,7 @@ function Footer() {
             >
               <i class='fab fa-twitter' />
             </Link> */}
-            <a href='https://www.linkedin.com/in/aundrefredericks/' class='social-icon-link linkedin' target='_blank' aria-label='LinkedIn'><i class='fab fa-linkedin'/></a>
+            <a href='https://www.linkedin.com/in/aundrefredericks/' class='social-icon-link linkedin' target='_blank' rel='noreferrer' aria-label='LinkedIn'><i class='fab fa-linkedin'/></a>
             {/* <Link
               class='social-icon-link twitter'
               to='/'

@@ -1,12 +1,12 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-import image1 from '../images/nsbe.jpg';
-import image2 from '../images/kitty.JPG';
+// import image1 from '../images/nsbe.jpg';
+// import image2 from '../images/kitty.JPG';
 import image3 from '../images/profile.JPEG';
-import image4 from '../images/universal.JPEG';
-import image5 from '../images/suave.JPG';
-import image6 from '../images/sunset.JPEG'
+import image4 from '../images/winter.JPG';
+// import image5 from '../images/suave.JPG';
+import image6 from '../images/camera.JPG'
 
 function Cards() {
   return (
